@@ -1,0 +1,56 @@
+h1{
+    text-align:center;
+}
+
+h3{
+    text-align:center;
+    margin: 50px;
+}
+
+#main{
+    text-align:center;
+    width: 1350px;
+    margin: 50px;
+}
+
+#second{
+    text-align:center;
+    width: 1350px;
+    margin: 50px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#subtitle{
+    text-align:center;
+}
+
+.A{
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(199, 176, 221);
+     text-align:center;
+}
+
+h4{
+    text-align:center;
+    margin: 50px;
+}
+
+#Secmain{
+    text-align:center;
+    width: 1400px;
+    margin: 50px;
+}
+
+
+#subtitle2{
+    text-align:center;
+}
+h4{
+    margin: 50px;
+}
